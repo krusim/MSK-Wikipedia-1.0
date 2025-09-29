@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+body {
+font-family: "Oswald", sans-serif;
+-webkit-text-stroke: 1px white;
+background-image: url(images/mskback.jpg);
+background-repeat: no-repeat;
+}
+
+.welcome {
+    font-size: 50px;
+    margin-left: 20px;
+}
+
+.chooselol {
+    font-size: 40px;
+    -webkit-text-stroke: 0.45px white;
+    margin-left: 270px;
+    margin-top: -50px;
+}
+
+.navbar {
+    font-size: 55px;
+    margin-left: 230px;
+}
+
+.backflips {
+  margin-left: 180px;
+}
+
+.navbar ul {
+    list-style-type:none;
+    background-color: hsl(0, 0%, 21%);
+    display: inline;
+    padding: 0px;
+    margin: 0px;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+}
+
+
+.navbar a:hover {
+   -webkit-text-stroke: 0.7px rgb(0, 0, 0)
+}
