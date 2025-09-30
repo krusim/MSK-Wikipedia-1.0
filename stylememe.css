@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Pattaya&display=swap');
+
+body {
+font-family: "Pattaya", sans-serif;
+-webkit-text-stroke: 1px rgb(0, 0, 0);
+background-image: url(images/whatchu.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.garit {
+    font-size: 30px;
+    width: 630px;
+    margin-left: 300px;
+    margin-top: 50px;
+}
+
+.ok {
+    margin-left: 1030px;
+    margin-top: -250px;
+    width: 650px;
+    font-size: 20px;
+}
