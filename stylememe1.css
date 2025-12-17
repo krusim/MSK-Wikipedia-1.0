@@ -6,6 +6,10 @@ font-family: "Pattaya", sans-serif;
 background-image: url(images/cannycat.jpg);
 background-repeat: no-repeat;
 background-size: cover;
+margin: 0;
+padding: 0;   
+background-position: center;  
+height: 100vh;
 }
 
 .naemmgarit {

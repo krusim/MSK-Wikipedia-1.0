@@ -5,9 +5,14 @@ font-family: "Oswald", sans-serif;
 -webkit-text-stroke: 1px white;
 background-image: url(images/mskback.jpg);
 background-repeat: no-repeat;
-
-background-attachment: fixed;
+margin: 0;
+padding: 0;
+background-size: cover;       
+background-position: center;
+height: 100vh;                 
 }
+
+
 
 .welcome {
     font-size: 50px;
